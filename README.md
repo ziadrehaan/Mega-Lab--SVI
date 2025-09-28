@@ -1,7 +1,5 @@
 # 🏢 Enterprise Network Infrastructure – Mega Lab (SVI)
 
-### 👨‍💻 By: [Ziad Rehan](mailto:zezorehan938@gmail.com)
-
 ---
 
 ## 📘 Project Overview
@@ -91,14 +89,11 @@ This is a comprehensive **network simulation lab** inspired by the **CCNA 200-30
 
 ## 📸 Preview
 
-![Network Topology](https://i.postimg.cc/yxy6x7F6/image.png)
+![Network Topology](https://postimg.cc/qt6DNBtz)
 
 ---
 
-## 📧 Contact
-
-<a href="mailto:zezorehan938@gmail.com"><b>𝓩𝓲𝓪𝓭 𝓡𝓮𝓱𝓪𝓷</b></a>  
-Mega Lab – SVI | CCNA Level Project  
+ 
 
 <p align="right">
   <img src="https://i.postimg.cc/yxy6x7F6/image.png" width="32" valign="middle">
