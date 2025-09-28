@@ -79,10 +79,9 @@ This is a comprehensive **network simulation lab** inspired by the **CCNA 200-30
 
 | File                  | Description                               |
 |-----------------------|-------------------------------------------|
-| [`EnterpriseNetwork.pkt`](./EnterpriseNetwork.pkt) | Main Cisco Packet Tracer file           |
+| [`EnterpriseNetwork.pkt`](./MegaLab2.pkt) | Main Cisco Packet Tracer file           |
 | [`topology.png`](./topology.png)                 | Network topology diagram               |
-| [`subnet-plan.png`](./subnet-plan.png)           | Subnetting and IP planning chart       |
-| [`Documentation.pdf`](./Documentation.pdf)       | Full technical report                  |
+| [`Documentation.pdf`](./MegaLab-SVIdecoumentation.pdf)       | Full technical report                  |
 | [`README.md`](./README.md)                       | This documentation file                |
 
 
