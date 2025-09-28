@@ -89,7 +89,7 @@ This is a comprehensive **network simulation lab** inspired by the **CCNA 200-30
 
 ## 📸 Preview
 
-![Network Topology](https://postimg.cc/qt6DNBtz)
+[![Screenshot-2025-09-28-001635.png](https://i.postimg.cc/8Ct2njNB/Screenshot-2025-09-28-001635.png)](https://postimg.cc/qt6DNBtz)
 
 ---
 
